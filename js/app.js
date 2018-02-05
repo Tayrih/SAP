@@ -5,6 +5,7 @@ $(".backico").click(function(){
   window.location.href = '../index.html';
 });
 $(".backico2").click(function(){
+<<<<<<< HEAD
   window.location.href = 'tips.html';
 });
 $(".backico3").click(function(){
@@ -27,4 +28,10 @@ $(".backico8").click(function(){
 });
 $(".backico9").click(function(){
   window.location.href = 'redes.html';
+=======
+  window.location.href = 'views/tips.html';
+});
+$("#tips").click(function(){
+  window.location.href = 'views/tips.html';
+>>>>>>> 1dd4e65c3791cfed878190c1ed53053e5c5d935c
 });
