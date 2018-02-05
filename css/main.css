@@ -24,3 +24,22 @@ button{
 iframe{
   border:3px solid black;
 }
+
+.a{
+  margin-top: 8%;
+}
+.backico{
+  font-size: 3.5rem;
+  cursor:pointer;
+  margin-left: 25%;
+  position: absolute;
+}
+p{
+  font-size: 2rem;
+}
+.backico2{
+  font-size: 3.5rem;
+  cursor:pointer;
+ margin-left: 85%;
+ position: absolute;
+}

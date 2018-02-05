@@ -1,5 +1,5 @@
 ## Sap
-***
+
 #### Descripción: 
 Capacitación dada por la empresa Sap.
 
