@@ -8,3 +8,6 @@ Difundir los  conocimientos  obtenidos en dicha capacitación.
 
 #### Publico Objetivo
  + Compañeras de Laboratoria.
+
+#### Producto
+![](assets/images/product.png)

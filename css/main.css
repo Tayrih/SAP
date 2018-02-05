@@ -13,6 +13,7 @@ margin-left: 15%;
 
 button{
   margin-left: 15%;
+  margin-top: 1%;
   height: 10%;
   width: 10%;
 }
@@ -23,10 +24,12 @@ button{
 }
 iframe{
   border:3px solid black;
+  margin-bottom: 5%;
+  margin-top: 3%;
 }
 
 .a{
-  margin-top: 8%;
+  margin-top: 4%;
 }
 .backico, .backico3, .backico5, .backico7, .backico9{
   font-size: 3.5rem;
@@ -42,4 +45,12 @@ p{
   cursor:pointer;
  margin-left: 85%;
  position: absolute;
+}
+
+.c {
+margin-top: 10%;
+margin-bottom: 10%;
+}
+.sket{
+  margin-bottom: 5%;
 }
