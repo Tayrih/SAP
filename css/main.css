@@ -12,7 +12,7 @@ margin-left: 15%;
 }
 
 button{
-  margin-left: 5%;
+  margin-left: 15%;
   height: 10%;
   width: 10%;
 }
@@ -28,7 +28,7 @@ iframe{
 .a{
   margin-top: 8%;
 }
-.backico{
+.backico, .backico3, .backico5, .backico7, .backico9{
   font-size: 3.5rem;
   cursor:pointer;
   margin-left: 25%;
@@ -37,7 +37,7 @@ iframe{
 p{
   font-size: 2rem;
 }
-.backico2{
+.backico2, .backico4, .backico6, .backico8{
   font-size: 3.5rem;
   cursor:pointer;
  margin-left: 85%;
