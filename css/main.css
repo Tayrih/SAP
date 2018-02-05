@@ -1,0 +1,26 @@
+.navbar{
+background-color: deepskyblue;
+}
+.text-principal {
+  font-weight: bold;
+  color: #2D1E2F;
+  font-family: 'Lobster', cursive;
+  font-size: 4rem;
+}
+.btn-secondary{
+margin-left: 15%;
+}
+
+button{
+  margin-left: 5%;
+  height: 10%;
+  width: 10%;
+}
+.video{
+  margin-top: 3%;
+  margin-left: 20%;
+  width:100%;
+}
+iframe{
+  border:3px solid black;
+}
