@@ -7,3 +7,6 @@ $(".backico").click(function(){
 $(".backico2").click(function(){
   window.location.href = 'views/tips.html';
 });
+$("#tips").click(function(){
+  window.location.href = 'views/tips.html';
+});
