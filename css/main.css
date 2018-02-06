@@ -31,6 +31,11 @@ iframe{
 .a{
   margin-top: 4%;
 }
+
+.a img {
+  display: block;
+}
+
 .backico, .backico3, .backico5, .backico7, .backico9{
   font-size: 3.5rem;
   cursor:pointer;
@@ -56,4 +61,19 @@ margin-bottom: 10%;
 }
 .white {
   color: white;
+}
+
+.cont {
+  display: block;
+  width: 100%;
+}
+
+.list-sketch li{
+  font-size: 25px;
+  list-style-type: none;
+  margin-bottom: 8px;
+}
+
+.list-sketch li::before {
+  content: '- '
 }
