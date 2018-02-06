@@ -77,3 +77,7 @@ margin-bottom: 10%;
 .list-sketch li::before {
   content: '- '
 }
+
+.cont h1 {
+  margin-bottom: 30px;
+}
