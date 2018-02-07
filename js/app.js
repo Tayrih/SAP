@@ -23,10 +23,16 @@ $('.backico7').click(function() {
   window.location.href = 'sketch.html';
 });
 $('.backico8').click(function() {
-  window.location.href = 'final.html';
+  window.location.href = 'tecnicas.html';
 });
 $('.backico9').click(function() {
   window.location.href = 'redes.html';
+});
+$('.backico10').click(function() {
+  window.location.href = 'final.html';
+});
+$('.backico11').click(function() {
+  window.location.href = 'tecnicas.html';
 });
 $('#tips').click(function() {
   window.location.href = 'views/tips.html';
@@ -40,5 +46,7 @@ $('#redes').click(function() {
 $('#tecnicas').click(function() {
   window.location.href = 'views/tecnicas.html';
 });
-
+$('#final').click(function() {
+  window.location.href = 'views/final.html';
+});
 

@@ -36,7 +36,7 @@ iframe{
   display: block;
 }
 
-.backico, .backico3, .backico5, .backico7, .backico9{
+.backico, .backico3, .backico5, .backico7{
   font-size: 3.5rem;
   cursor:pointer;
   margin-left: 25%;
@@ -45,7 +45,7 @@ iframe{
 p{
   font-size: 2rem;
 }
-.backico2, .backico4, .backico6, .backico8{
+.backico2, .backico4, .backico6, .backico8, .backico11{
   font-size: 3.5rem;
   cursor:pointer;
  margin-left: 85%;
