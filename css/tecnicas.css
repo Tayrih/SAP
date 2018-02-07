@@ -8,6 +8,7 @@ body {
 .title {
   background-color: rgb(7, 219, 149);
   padding: 3rem;
+  
 }
 
 h2 {
@@ -63,4 +64,18 @@ hr {
 }
 .padding {
   padding-left: 10rem;
+}
+.backico9 {
+  font-size: 3.5rem;
+  cursor:pointer;
+  margin-left: 25%;
+  margin-top: 4%;
+  
+}
+
+.backico10 {
+  font-size: 3.5rem;
+  cursor:pointer;
+ margin-left: 85%;
+
 }
